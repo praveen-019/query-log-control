@@ -1,6 +1,0 @@
-{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:24:33.299159Z", "metadata": {"source": "log9.log"}}
-{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.132767Z", "metadata": {"source": "log9.log"}}
-{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.688086Z", "metadata": {"source": "log9.log"}}
-{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.778389Z", "metadata": {"source": "log9.log"}}
-{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.703370Z", "metadata": {"source": "log9.log"}}
-{"level": "success", "log_string": "Inside the Authentication API", "timestamp": "2024-05-14T13:56:52.703370Z", "metadata": {"source": "log9.log"}}
