@@ -32,7 +32,7 @@ These are some small vedio clips showing how we achieve the required functionali
 
 ###
 After running the code this is how the terminal looks like for user
-if he give input as 1 then he will be able to apply all basic functionalities
+if he/she give input as 1 then he will be able to apply all basic functionalities
 the follow are the vedio clips that showcases what we can do with option (1. Normal Search)
 
 
@@ -47,8 +47,17 @@ https://github.com/praveen-019/query-log-control/assets/72589374/1774861c-b81c-4
 
 https://github.com/praveen-019/query-log-control/assets/72589374/05f1f6da-6557-422d-b4c1-0bcf348d8d97
 
+###
+if the user select 2 then he/she will be able to perform (2. Advanced Search) the follow are the vedio clips that showcases what we can do with
 
 
+https://github.com/praveen-019/query-log-control/assets/72589374/5e2e0e62-c04d-41d1-afd5-295e1132c48b
+
+
+https://github.com/praveen-019/query-log-control/assets/72589374/925fd0e6-3186-48a9-9a80-bfc5302698a8
+
+
+https://github.com/praveen-019/query-log-control/assets/72589374/128ac14e-6794-4110-a368-2d04776884b6
 
 
 ## Approach
