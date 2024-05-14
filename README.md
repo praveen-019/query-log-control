@@ -25,6 +25,32 @@ These features aren’t compulsory to implement, however, adding them might incr
 - Provide real-time log ingestion and searching capabilities.
 - Implement role-based access to the query interface.
 
+## Output
+These are some small vedio clips showing how we achieve the required functionality with command line interface
+###
+![image](https://github.com/praveen-019/query-log-control/assets/72589374/508b501b-f016-4a60-8498-1fb6fc707ca6)
+
+###
+After running the code this is how the terminal looks like for user
+if he give input as 1 then he will be able to apply all basic functionalities
+the follow are the vedio clips that showcases what we can do with option (1. Normal Search)
+
+
+https://github.com/praveen-019/query-log-control/assets/72589374/38942380-4bf5-4040-8ea7-1a8721bc13cc
+
+
+https://github.com/praveen-019/query-log-control/assets/72589374/80638298-c277-446f-b401-ea61c02dc1e5
+
+
+https://github.com/praveen-019/query-log-control/assets/72589374/1774861c-b81c-424e-ae54-bed1e4299d60
+
+
+https://github.com/praveen-019/query-log-control/assets/72589374/05f1f6da-6557-422d-b4c1-0bcf348d8d97
+
+
+
+
+
 ## Approach
 ### Step 1: Set up a Python project
 
