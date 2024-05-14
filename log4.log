@@ -1,9 +1,0 @@
-{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:24:33.299159Z", "metadata": {"source": "log4.log"}}
-{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.139931Z", "metadata": {"source": "log4.log"}}
-{"level": "info", "log_string": "Inside the Authentication API", "timestamp": "2024-05-13T23:28:11.139931Z", "metadata": {"source": "log4.log"}}
-{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.736262Z", "metadata": {"source": "log4.log"}}
-{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.792975Z", "metadata": {"source": "log4.log"}}
-{"level": "success", "log_string": "Inside the Authentication API", "timestamp": "2024-05-14T12:17:45.792975Z", "metadata": {"source": "log4.log"}}
-{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.695990Z", "metadata": {"source": "log4.log"}}
-{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.698008Z", "metadata": {"source": "log4.log"}}
-{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.699816Z", "metadata": {"source": "log4.log"}}
