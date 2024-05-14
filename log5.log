@@ -1,0 +1,27 @@
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:24:33.299159Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:24:33.299159Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:24:33.299159Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.134765Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.135756Z", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.781429Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:01.745484Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Weather API", "timestamp": "2024-05-14T16:26:01.745484Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:12.986136Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.103869Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the File Storage API", "timestamp": "2024-05-14T16:26:16.103869Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.201786Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.213270Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Weather API", "timestamp": "2024-05-14T16:26:17.213270Z", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.217269Z", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Inside the Analytics API", "timestamp": "2024-05-14T16:26:17.217269Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.191555Z", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.195555Z", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.203087Z", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Inside the Messaging API", "timestamp": "2024-05-14T16:26:18.203087Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.217601Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Social Media API", "timestamp": "2024-05-14T16:26:18.217601Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.857199Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.858197Z", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.444699Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.452222Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Inside the Weather API", "timestamp": "2024-05-14T16:26:20.452222Z", "metadata": {"source": "log5.log"}}

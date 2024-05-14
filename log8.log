@@ -1,0 +1,28 @@
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.123514Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.667771Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:01.717363Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:01.720877Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:01.740623Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the Calander API", "timestamp": "2024-05-14T16:26:01.740623Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:12.995652Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the Messaging API", "timestamp": "2024-05-14T16:26:12.995652Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.090321Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.093340Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.097341Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Authentication API", "timestamp": "2024-05-14T16:26:16.097341Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.207786Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Authentication API", "timestamp": "2024-05-14T16:26:17.207786Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.193557Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.198556Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.204079Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Calander API", "timestamp": "2024-05-14T16:26:18.204079Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.207085Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the File Storage API", "timestamp": "2024-05-14T16:26:18.207085Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.448701Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Authentication API", "timestamp": "2024-05-14T16:26:20.448701Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.449697Z", "metadata": {"source": "log8.log"}}
+{"level": "info", "log_string": "Inside the Messaging API", "timestamp": "2024-05-14T16:26:20.449697Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.454233Z", "metadata": {"source": "log8.log"}}
+{"level": "success", "log_string": "Inside the File Storage API", "timestamp": "2024-05-14T16:26:20.454233Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.457235Z", "metadata": {"source": "log8.log"}}
+{"level": "error", "log_string": "Inside the Analytics API", "timestamp": "2024-05-14T16:26:20.457235Z", "metadata": {"source": "log8.log"}}

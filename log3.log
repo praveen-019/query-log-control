@@ -1,0 +1,27 @@
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:24:33.299159Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.136767Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.688086Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.786423Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.698008Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:12.984133Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:12.996655Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Calander API", "timestamp": "2024-05-14T16:26:12.996655Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.088815Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.100340Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the Calander API", "timestamp": "2024-05-14T16:26:16.100340Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.200856Z", "metadata": {"source": "log3.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.206785Z", "metadata": {"source": "log3.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.206785Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.214274Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the File Storage API", "timestamp": "2024-05-14T16:26:17.214274Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:18.196556Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.866736Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Weather API", "timestamp": "2024-05-14T16:26:19.866736Z", "metadata": {"source": "log3.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.869740Z", "metadata": {"source": "log3.log"}}
+{"level": "error", "log_string": "Inside the Translation API", "timestamp": "2024-05-14T16:26:19.869740Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.440413Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.441702Z", "metadata": {"source": "log3.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.451208Z", "metadata": {"source": "log3.log"}}
+{"level": "error", "log_string": "Inside the Calander API", "timestamp": "2024-05-14T16:26:20.451208Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:20.458233Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Social Media API", "timestamp": "2024-05-14T16:26:20.458233Z", "metadata": {"source": "log3.log"}}

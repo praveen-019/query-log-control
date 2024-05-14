@@ -1,0 +1,34 @@
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.123514Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.137849Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.734258Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.687906Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.687906Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.693338Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:01.713508Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:01.724894Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:01.728897Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Authentication API", "timestamp": "2024-05-14T16:26:01.728897Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:12.988140Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:13.003173Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Social Media API", "timestamp": "2024-05-14T16:26:13.003173Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.095343Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.105871Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Translation API", "timestamp": "2024-05-14T16:26:16.105871Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:16.107869Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Social Media API", "timestamp": "2024-05-14T16:26:16.107869Z", "metadata": {"source": "log2.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.198266Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.199265Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.201786Z", "metadata": {"source": "log2.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.203787Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.215274Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Translation API", "timestamp": "2024-05-14T16:26:17.215274Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:17.218273Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Social Media API", "timestamp": "2024-05-14T16:26:17.218273Z", "metadata": {"source": "log2.log"}}
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.854232Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.859207Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.860783Z", "metadata": {"source": "log2.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.861727Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.864736Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Messaging API", "timestamp": "2024-05-14T16:26:19.864736Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T16:26:19.873791Z", "metadata": {"source": "log2.log"}}
+{"level": "success", "log_string": "Inside the Social Media API", "timestamp": "2024-05-14T16:26:19.873791Z", "metadata": {"source": "log2.log"}}
