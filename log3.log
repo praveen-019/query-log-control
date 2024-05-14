@@ -1,0 +1,5 @@
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:24:33.299159Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-13T23:28:11.136767Z", "metadata": {"source": "log3.log"}}
+{"level": "info", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.688086Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T12:17:45.786423Z", "metadata": {"source": "log3.log"}}
+{"level": "success", "log_string": "Inside the Search API", "timestamp": "2024-05-14T13:56:52.698008Z", "metadata": {"source": "log3.log"}}
